@@ -1,7 +1,8 @@
 
 # Peptide Binding Prediction with ESM Embeddings
 
-This project predicts peptide binding specificity using protein language model embeddings from **ESM (Evolutionary Scale Modeling)** and ensemble machine learning classifiers.
+This project predicts CTCF-fragment (YDF motif and flanking amino acids) and peptides binding specificity with cohesin using protein language model embeddings from **ESM (Evolutionary Scale Modeling)** and ensemble machine learning classifiers.
+
 
 ## Project Overview
 
